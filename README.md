@@ -1,5 +1,5 @@
 ![image](https://github.com/ISPC-TST-Sensores-y-Actuadores/practica-de-la-1er-semana-grupo-1/blob/main/portada_sensores.jpg)
-(https://classroom.github.com/online_ide?assignment_repo_id=8421053&assignment_repo_type=AssignmentRepo)
+
 # Practica Semana 1 - Grupo 1
 
 ## Integrantes: :heavy_check_mark:
